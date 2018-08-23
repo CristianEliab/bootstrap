@@ -1,0 +1,179 @@
+/**{
+    margin: 0px;
+    padding: 0px;
+}
+*/
+/* Cuerpo del html */
+body{
+    /*
+    margin: auto;
+    max-width: 2000px;
+    max-height: 2000px;
+    */
+    font-family: 'Old Standard TT', serif;
+    font-size: 20px;
+}
+
+ /* Cuerpo del div inicio */
+
+ /* Barra del menu */
+.navbar-custom {
+    background: rgb(131, 127, 127);
+}
+a.navbar-brand{
+    width: 16%;
+    font-size: 109%;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color:white;
+}
+.custom-colors {
+    background-color: #ecf0f1;
+    color: #ecf0f1;
+}
+
+ /* container Milayer */
+.display-4 {
+    margin: auto;
+    font-weight: 300;
+    margin-left: 48%;
+    color: #d9e2e6fd;
+    font-size: 300%;
+}
+div.milayer.my-3{
+    position: relative;
+    left: -40%;
+    top: -39%;
+    font-family: 'Old Standard TT', serif;
+}
+.mila{
+    position: relative;
+    left: 0%;
+    padding: 6%;
+}
+.lead {
+    margin-left: 68%;
+    left: 70%;
+    font-size: 141%;
+    color: #ecf0f1;
+    font-family: 'Old Standard TT', serif;
+}
+
+/*
+body > div.inicio > div > div > p > a{
+    margin-left: 14%;
+}
+*/
+a.btn .btn-primary .btn-lg{
+    color: #fff;
+}
+body > div.inicio > div > div > p > a{
+    color: #fff;
+    font-family: 'Old Standard TT', serif;
+}
+
+/* Inicio */
+
+.inicio{
+    background-size: cover;
+    padding-top: 70px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://www.atulhost.com/wp-content/uploads/2017/03/software-developer.jpg);
+}
+
+/* Contenido */
+/*
+.contenido{
+    background: #fff;
+}
+*/
+
+
+/* Contacto */
+
+.contacto{
+    background: rgb(131, 127, 127);
+    color: #fff;
+    padding: 0%;
+    margin: 0%;
+}
+
+/* Carousel */
+
+div.carouselCon {
+    margin-left: 19%;
+    width: 63%;
+    margin-top: -4%;
+}
+
+/*
+.container{
+    margin-left: 16%;
+}
+*/
+
+.informacion{
+    width: 30%;
+    padding: 5%;
+    display: inline-block;
+}
+
+.row {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 292px;
+    margin-left: 144px;
+    width: 65%;
+}
+
+#carouselExampleIndicators{
+    margin-left: 13%;
+    padding: 2%;
+    max-height: 444px; 
+}
+
+/* Titulo de las imagenes */
+
+.tituloImg{
+    text-align: center;
+    font-size: 15px;
+}
+h4{
+    font-size: 15.5px;
+    text-align: justify;
+}
+h6{
+    font-size: 10.5px;
+    text-align: center;
+}
+.info{
+    font-size: 15.5px;
+}
+h1{
+    text-align: center;
+    font-family: 'Old Standard TT', serif;
+}
+
+
+/* index2.html */
+.card-text{
+    font-size: 15px;
+}
+.card-body{
+    display: block;
+}
+.fotoHistoria{
+    width: 12%!important;
+}
+.hist3{
+    position: relative;
+    top:0;
+    right:0;
+}
+.imghist3{
+    position: relative;
+    top:0;
+    left:0;
+}
+
